@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "practica1/src/main",
+        "practica1"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
